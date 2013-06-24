@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/scratch/repos/infra/files/authorized_keys'
+let g:netrw_dirhist_2='/scratch/repos/infra/files/event-processors'
+let g:netrw_dirhist_3='/home/paolo/.vim'
+let g:netrw_dirhist_4='/scratch/repos/mail-eventprocessors/recycler'
+let g:netrw_dirhist_5='/scratch/repos/mail-tools/tools/templater_mail/centauro-undecided_name_based'
+let g:netrw_dirhist_6='/home/paolo/.config/fish'
+let g:netrw_dirhist_7='/home/paolo/.filebot'
